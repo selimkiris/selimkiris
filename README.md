@@ -4,7 +4,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Computer%20Engineering%20Student-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20.NET%20Developer-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-FULL--STACK%20.NET%20DEVELOPER-blue?style=for-the-badge">
 </p>
 
 I am a senior **Computer Engineering** student at **Süleyman Demirel University**. I am a dedicated aspiring software engineer focusing on the **.NET ecosystem** and **modern web architectures**. I aim to combine my professional work discipline with my engineering background to build scalable and efficient solutions.
