@@ -1,4 +1,4 @@
-# Hi there, I'm Selim Kırış 👋
+# Hi, I'm Selim Kırış
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Computer%20Engineering%20Student-red?style=for-the-badge">
@@ -17,7 +17,7 @@ Currently working as a **Remote Operations Specialist** for a US-based firm, whe
 
 ---
 
-### 🚀 Featured Project: **Tespit Sözlük**
+### 🚀 Featured Project: Tespit Sözlük
 A community-driven dynamic platform inspired by "Ekşi Sözlük".
 - **Full-Stack Lifecycle:** Architecting the entire project from database design to user interface.
 - **Tech Stack:** Built with **ASP.NET Core**, **React**, and **PostgreSQL**.
@@ -32,17 +32,12 @@ A community-driven dynamic platform inspired by "Ekşi Sözlük".
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
-
-- **Core:** C#, ASP.NET Core, Entity Framework Core, RESTful APIs.
-- **Frontend:** React, JavaScript, HTML5 & CSS3.
-- **Hardware:** Arduino & C++ (Autonomous system integration).
-- **Interests:** Exploring **Cloud Computing (Azure)** and **DevOps** (Docker, CI/CD).
 
 ---
 
-### ⚜️ Leadership & Soft Skills
+### ⚜️ 🎭 Leadership & Soft Skills
 I believe engineering is more than just code; it's about leading people and managing complex situations.
 - **Scout Leadership (11 Years):** TİF Licensed leader. Specialized in **Crisis Management**, team coordination, and leading groups under high pressure.
 - **Theater Direction & Presidency:** Served as the president and director of SDU Theater Club. Managed large-scale productions from scriptwriting to final stage performance.
@@ -53,6 +48,10 @@ I believe engineering is more than just code; it's about leading people and mana
 <p align="left">
   <a href="https://linkedin.com/in/selimkiris">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <br>
+  <a href="https://instagram.com/selimkrs2">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
